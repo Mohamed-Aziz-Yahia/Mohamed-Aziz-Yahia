@@ -1,8 +1,9 @@
+<div style="width: 100%; overflow: hidden;">
+  <img src="https://img.freepik.com/free-vector/matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1726617600&semt=ais_hybrid" style="width: 100%; height: 50%;" alt="Masterhead GIF">
+</div>
+
 <h1 align="center">Hi 👋, I'm Mohamed Yahia</h1>
 <h3 align="center">An Algerian Frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://sliceinsights.com/wp-content/uploads/2023/01/46207-programmer-1.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-aziz-yahia&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-aziz-yahia" /> </p>
 
 
 - 🌱 I’m currently learning **Web development**
