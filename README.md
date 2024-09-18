@@ -1,9 +1,8 @@
-<div style="width: 100%; overflow: hidden;">
-  <img src="https://img.freepik.com/free-vector/matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1726617600&semt=ais_hybrid" style="width: 100%; height: 50%;" alt="Masterhead GIF">
-</div>
+<h1 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamed+Yahia!;" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Mohamed Yahia</h1>
-<h3 align="center">An Algerian Frontend developer</h3>
+<h1 align="center">An Algerian Frontend developer</h3>
 
 
 - 🌱 I’m currently learning **Web development**
